@@ -54,16 +54,6 @@ INSERT INTO `productos` (`id_producto`, `codigo_producto`, `nombre`, `precio`, `
 -- --------------------------------------------------------
 
 --
--- Estructura de tabla para la tabla `users`
---
-
-CREATE TABLE `users` (
-  `fullname` varchar(50) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_spanish_ci;
-
--- --------------------------------------------------------
-
---
 -- Estructura de tabla para la tabla `usuarios`
 --
 
